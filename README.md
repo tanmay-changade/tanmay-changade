@@ -23,6 +23,6 @@ and good grasp of
 • Project Management.
 
 My Achievements:
-5🌟 Hakerrank | Python
+5🌟 Hakerrank | Python, 
 5🌟 Hakerrank | SQL
 Link 🔗: https://www.hackerrank.com/profile/tanmaychangade11
