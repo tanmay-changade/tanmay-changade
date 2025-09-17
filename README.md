@@ -5,17 +5,20 @@ I am a proactive learner and a tech enthusiast🧑‍💻 who thrives on explori
 I am always seeking opportunities to expand my knowledge and skillset. I bring a combination of a curious mind 🤔 and solid technical skills to every project.
 
 I'm always exploring new technologies. Right now, I'm diving deep into,
+
 • Data Analytics
 • Power BI
 • SQL
 • Python 
 • Advanced Excel
 also i am Proefficient in softwares like 🥇,
+
 • MS Word
 • Powerpoint
 • Outlook
 • Power Automate
 and good grasp of
+
 • Computer Hardware, Networking and,
 • Project Management.
 
