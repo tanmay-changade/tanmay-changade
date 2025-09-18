@@ -10,13 +10,13 @@ I'm always exploring new technologies. Right now, I'm diving deep into,<br />
 • Power BI
 • SQL
 • Python 
-• Advanced Excel
+• Advanced Excel <br />
 also i am Proefficient in softwares like 🥇,
 
 • MS Word
 • Powerpoint
 • Outlook
-• Power Automate
+• Power Automate <br />
 and good grasp of
 
 • Computer Hardware, Networking and,
