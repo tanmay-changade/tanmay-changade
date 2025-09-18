@@ -5,24 +5,23 @@ I am a proactive learner and a tech enthusiast🧑‍💻 who thrives on explori
 I am always seeking opportunities to expand my knowledge and skillset. I bring a combination of a curious mind 🤔 and solid technical skills to every project.
 
 I'm always exploring new technologies. Right now, I'm diving deep into,<br />
-
-• Data Analytics
-• Power BI
-• SQL
-• Python 
+• Data Analytics <br />
+• Power BI <br />
+• SQL <br />
+• Python <br />
 • Advanced Excel <br />
-also i am Proefficient in softwares like 🥇,
 
-• MS Word
-• Powerpoint
-• Outlook
+also i am Proefficient in softwares like 🥇, <br />
+• MS Word <br />
+• Powerpoint <br />
+• Outlook <br />
 • Power Automate <br />
-and good grasp of
 
-• Computer Hardware, Networking and,
+and good grasp of <br />
+• Computer Hardware, Networking and, <br />
 • Project Management.
 
-My Achievements:
-5🌟 Hakerrank | Python, 
-5🌟 Hakerrank | SQL
+My Achievements: <br />
+5🌟 Hakerrank | Python, <br />
+5🌟 Hakerrank | SQL <br />
 Link 🔗: https://www.hackerrank.com/profile/tanmaychangade11
