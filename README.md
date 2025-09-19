@@ -1,6 +1,6 @@
 ## Hi There 👋 i'm pleased to see you here 😺!
 
-Welcome to my github profile!
+<b>Welcome to my github profile!
 I am a proactive learner and a tech enthusiast🧑‍💻 who thrives on exploring new challenges. With a knack for picking up new technologies quickly🤺, 
 I am always seeking opportunities to expand my knowledge and skillset. I bring a combination of a curious mind 🤔 and solid technical skills to every project.
 
@@ -24,4 +24,4 @@ and good grasp of <br />
 My Achievements: <br />
 5🌟 Hakerrank | Python, <br />
 5🌟 Hakerrank | SQL <br />
-Link 🔗: https://www.hackerrank.com/profile/tanmaychangade11
+Link 🔗: https://www.hackerrank.com/profile/tanmaychangade11 </b>
